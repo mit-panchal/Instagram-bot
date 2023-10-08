@@ -28,9 +28,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Make your changes and ensure that the code passes all tests.
 4. Create a pull request to merge your changes into the main repository.
 
-License 📄
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Acknowledgments 🙏
 - We would like to acknowledge the open-source community for their contributions to the project.
 - Special thanks to the Selenium and dotenv libraries for enabling automation and environment variable management.
